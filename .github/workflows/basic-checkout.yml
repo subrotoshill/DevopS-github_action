@@ -4,7 +4,7 @@ name: Basic Checkout Lab
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   basic-checkout:
